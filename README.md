@@ -144,7 +144,7 @@ Project Structure
 ```
 ecommerce-analysis/
  ├── data/
- ├── ecommeranalysis.ipynb
+ ├── ecommerce-analysis.ipynb
  ├── README.md
 ```
 
