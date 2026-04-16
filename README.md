@@ -30,7 +30,6 @@ Customers dataset
 Tools & Technologies
 
 Python (Pandas, Matplotlib)
-SQL (conceptual analysis & joins)
 VS Code / Jupyter Notebook
 
 ---
@@ -146,7 +145,7 @@ Project Structure
 ```
 ecommerce-analysis/
  ├── data/
- ├── analysis.ipynb
+ ├── ecommeranalysis.ipynb
  ├── README.md
 ```
 
