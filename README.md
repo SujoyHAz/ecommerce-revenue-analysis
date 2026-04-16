@@ -21,9 +21,9 @@ Dataset: Brazilian E-commerce Public Dataset (Olist)
 
 Key tables used:
 
-Orders dataset
-Order items dataset
-Customers dataset
+-Orders dataset
+-Order items dataset
+-Customers dataset
 
 ---
 
