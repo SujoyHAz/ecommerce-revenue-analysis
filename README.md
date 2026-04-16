@@ -65,9 +65,10 @@ Key Analysis
 ---
 
 2. Order Volume Analysis
-   Order Trend
+
+Order Trend
    
-![Orders Trend](orders_trend.png)
+![Order Trend](order_trend.png)
 
 * Calculated number of orders per month
 * Found strong correlation between:
