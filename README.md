@@ -25,7 +25,9 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Key tables used:
 - Orders dataset  
 - Order items dataset  
-- Customers dataset  
+- Customers dataset
+
+Note: Dataset not uploaded due to size limitations.
 
 ---
 
