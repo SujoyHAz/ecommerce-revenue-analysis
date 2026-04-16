@@ -51,16 +51,18 @@ Key Analysis
 
 1. Revenue Trend Analysis
 
-Analysed monthly revenue performance
-Identified **growth phase followed by fluctuations**
-Detected data inconsistency in the final month (excluded from analysis)
+![Revenue Trend](revenue_trend.png)
+
+* Analysed monthly revenue performance
+* Identified **growth phase followed by fluctuations**
+* Detected data inconsistency in the final month (excluded from analysis)
 
 ---
 
 2. Order Volume Analysis
 
-Calculated number of orders per month
-Found strong correlation between:
+* Calculated number of orders per month
+* Found strong correlation between:
 
 **Revenue ↔ Order Volume**
 
@@ -70,9 +72,9 @@ Found strong correlation between:
 
 Breakdown:
 
-Delivered: Majority of orders and revenue
-Cancelled: Very low proportion (~0.5%)
-Other statuses (processing, shipped): minor but relevant
+* Delivered: Majority of orders and revenue
+* Cancelled: Very low proportion (~0.5%)
+* Other statuses (processing, shipped): minor but relevant
 
 ---
 
