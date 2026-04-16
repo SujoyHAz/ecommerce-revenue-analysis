@@ -17,7 +17,10 @@ Key question:
 
 Data Sources
 
-Dataset: Brazilian E-commerce Public Dataset (Olist)
+Dataset used: Brazilian E-commerce Public Dataset (Olist)
+
+Download it here:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Key tables used:
 - Orders dataset  
