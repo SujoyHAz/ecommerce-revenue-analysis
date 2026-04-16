@@ -1,4 +1,7 @@
-E-commerce Revenue Analysis & Growth Strategy
+# E-commerce Revenue Analysis & Growth Strategy
+
+An end-to-end data analysis project focused on identifying revenue drivers, diagnosing business fluctuations, and providing actionable recommendations using real-world e-commerce data.
+
 Project Overview
 
 This project analyses an e-commerce dataset to identify the key drivers behind revenue trends and uncover opportunities for business growth. The objective was to move beyond basic reporting and perform **root cause analysis** to understand fluctuations in revenue performance.
@@ -62,6 +65,9 @@ Key Analysis
 ---
 
 2. Order Volume Analysis
+   Order Trend
+   
+![Orders Trend](orders_trend.png)
 
 * Calculated number of orders per month
 * Found strong correlation between:
@@ -146,10 +152,10 @@ Recommendations
 
 ---
 
-Project Structure
+## Project Structure
 
 ```
-ecommerce-analysis/
+ecommerce-revenue-analysis/
  ├── data/
  ├── ecommerce-analysis.ipynb
  ├── README.md
@@ -157,8 +163,15 @@ ecommerce-analysis/
 
 ---
 
-Key Takeaway
+##  Key Insights (Summary)
 
+- Revenue fluctuations are primarily driven by changes in order volume  
+- Cancellation rates are low and have minimal impact on revenue  
+- Operational delays (processing/shipping) affect revenue timing  
+- Final month data is incomplete and excluded from analysis
+
+
+Key Takeaway
 > This project demonstrates the ability to move beyond descriptive analytics and perform **end-to-end business analysis**, identifying root causes and delivering actionable insights.
 
 ---
